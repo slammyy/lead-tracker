@@ -17,23 +17,7 @@ body {
   background: #1876d3;
   color: white;
   padding: 10px 20px 10px 20px;
-  border: 1px solid #1876d3;
-  font-weight: bold;
-}
-
-.delete-btn {
-  background: white;
-  color: #1876d3;
-  padding: 10px 20px 10px 20px;
-  border: 1px solid #1876d3;
-  font-weight: bold;
-}
-
-.tab-btn {
-  background: #1876d3;
-  color: white;
-  padding: 10px 20px 10px 20px;
-  border: 1px solid #1876d3;
+  border: none;
   font-weight: bold;
 }
 
